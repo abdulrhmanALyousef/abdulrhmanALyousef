@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**abdulrhmanALyousef/abdulrhmanALyousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I'm a Software Engineering student who is passionate about improving my programming skills and becoming a better developer every day.  
+I enjoy learning new technologies, building projects, and exploring different areas in software development.  
+My goal is to grow as a software engineer and contribute to meaningful and impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+- ☕ **Java**
+- 📜 **JavaScript**
+- 🌐 **HTML**
+- 🎨 **CSS**
+
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn:https://www.linkedin.com/in/abdulrhman-alyousef-678b99355/
+- 📧 Email: your-email@example.com  
+
