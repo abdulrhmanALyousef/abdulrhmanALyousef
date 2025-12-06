@@ -22,5 +22,5 @@ My goal is to grow as a software engineer and contribute to meaningful and impac
 ## 📫 Contact Me
 
 - 💼 LinkedIn:https://www.linkedin.com/in/abdulrhman-alyousef-678b99355/
-- 📧 Email: your-email@example.com  
+- 📧 Email: abdulrhmanalyousef55@gmai.com 
 
