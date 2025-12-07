@@ -1,6 +1,8 @@
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Abdulrahman+Al-Yousef;Software+Engineering+Student" alt="Abdulrahman Al-Yousef " />
+## <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9333EA&height=120&section=header&text=Abdulrahman%20Al-Yousef&fontSize=36&fontColor=ffffff" />
+</p>
 
 
 
