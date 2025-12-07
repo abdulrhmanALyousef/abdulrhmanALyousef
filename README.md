@@ -1,6 +1,6 @@
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=400&lines=👨‍💻+About+Me" alt="About Me Animation" />
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=400&lines=👨‍💻+About+Me" alt="About Me " />
 
 
 
