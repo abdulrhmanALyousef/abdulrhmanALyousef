@@ -1,6 +1,6 @@
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=400&lines=👨‍💻+About+Me" alt="About Me " />
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Abdulrahman+Al-Yousef;Software+Engineering+Student" alt="Abdulrahman Al-Yousef " />
 
 
 
