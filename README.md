@@ -1,8 +1,8 @@
 
 
-## 👨‍💻 About Me
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=400&lines=👨‍💻+About+Me" alt="About Me Animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=450&lines=Software+Engineering+Student;Passionate+About+Learning+Tech;Building+Projects+Every+Day;Future+Software+Engineer" alt="Typing SVG" />
+
 
    I'm a Software Engineering student who is passionate about improving my programming skills and becoming a better developer every day.  
   I enjoy learning new technologies, building projects, and exploring different areas in software development.  
