@@ -1,5 +1,4 @@
-```md
-## <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9333EA&height=120&section=header&text=Abdulrahman%20Al-Yousef&fontSize=36&fontColor=ffffff" />
 </p>
 
@@ -43,7 +42,6 @@ I'm a Software Engineering student passionate about improving my programming ski
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrhmanALyousef&show_icons=true&theme=tokyonight" />
-  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanALyousef&layout=compact&theme=tokyonight" />
 </p>
 
@@ -64,7 +62,6 @@ I'm a Software Engineering student passionate about improving my programming ski
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrhman-alyousef-678b99355/)
-
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrhmanalyousef55@gmail.com)
 
 ---
@@ -72,5 +69,4 @@ I'm a Software Engineering student passionate about improving my programming ski
 <p align="center">
   ⭐️ From Abdulrahman Al-Yousef
 </p>
-```
 
